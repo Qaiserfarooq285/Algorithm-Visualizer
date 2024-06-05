@@ -4,7 +4,8 @@
 ### Preview
 ![image](https://github.com/Qaiserfarooq285/Algorithm-Visualizer/assets/118597629/9f99efe6-c7ac-43f8-aef2-d9d87cd9dc50)
 
-![image](https://github.com/Qaiserfarooq285/Algorithm-Visualizer/assets/118597629/2f4a4ea2-aeb9-4fc6-adf9-0a368d373ce2)
+![image](https://github.com/Qaiserfarooq285/Algorithm-Visualizer/assets/118597629/6a70a61e-d1d3-4940-ac12-cb36fbbc7662)
+
 
 ![image](https://github.com/Qaiserfarooq285/Algorithm-Visualizer/assets/118597629/bb733336-15d6-41b1-b95f-2e577b7f71a7)
 

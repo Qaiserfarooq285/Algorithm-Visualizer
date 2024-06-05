@@ -1,8 +1,16 @@
 
 <h2>Algorithm Visualizer</h2>
 
-#Preview
-https://github.com/Qaiserfarooq285/Algorithm-Visualizer/blob/main/Algorithm%20Visualizer/build/static/media/9.png?raw=true
+### Preview
+![image](https://github.com/Qaiserfarooq285/Algorithm-Visualizer/assets/118597629/9f99efe6-c7ac-43f8-aef2-d9d87cd9dc50)
+
+![image](https://github.com/Qaiserfarooq285/Algorithm-Visualizer/assets/118597629/2f4a4ea2-aeb9-4fc6-adf9-0a368d373ce2)
+
+![image](https://github.com/Qaiserfarooq285/Algorithm-Visualizer/assets/118597629/bb733336-15d6-41b1-b95f-2e577b7f71a7)
+
+![image](https://github.com/Qaiserfarooq285/Algorithm-Visualizer/assets/118597629/c0ac51ce-0b40-4fee-aebf-641ec5c67301)
+
+
 
 
 A better visualization of different algorithms made with React. 
@@ -79,7 +87,4 @@ npm run deploy
 
 
 
-### Inspiration for next sections
-
-- [University of San Francisco Site](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) 
-- ​    [algorithm-visualizer](https://github.com/algorithm-visualizer)    /      [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)     
+ 
